@@ -3,8 +3,6 @@ package com.pluralsight.bookstore.model;
 import javax.persistence.*;
 import java.util.Date;
 
-// Test
-
 @Entity
 public class Book {
 
